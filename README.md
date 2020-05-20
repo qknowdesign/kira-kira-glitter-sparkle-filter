@@ -3,7 +3,7 @@
 Tutorial on YouTube 
 <a href="https://youtu.be/ETYOmdFnlew">Spark AR Tutorial: Kira Kira Glitter Sparkle Filter with VHS Effect</a>
 
-<a href="https://youtu.be/ETYOmdFnlew" alt="Spark AR Native UI Picker 2020 for 3D Objects (update 85v)"> <img src="qknow-design-spark-ar-2d-game-tutorial.jpg"/> </a> 
+<a href="https://youtu.be/ETYOmdFnlew" alt="Spark AR Native UI Picker 2020 for 3D Objects (update 85v)"> <img src="qknowdesign_spark-ar_how-to-create-a-kira-kira-sparkle-glitter-filter_thumb"/> </a> 
 
 Learn more stuff by watching my <a href="https://www.youtube.com/channel/UC_ycBf44SNpOc7w6kvYkufA?view_as=subscriber">Spark AR Tutorials on YouTube</a>!
 
